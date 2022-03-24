@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+
+
+h1 {font-size: 90px; font-family: 'Passion One'; text-align: center;
+  Right: 30px; color: #c27cf7;
+  text-shadow: 4px 4px 5px #520e87;
+}
+
+h2 {font-size: 300%; text-align: center; font-family: "Papyrus", "Cursive", monospace; color: #8ad0db 
+}
+
+
+
+body { text-align: center;
+background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v688-kul-70-fluidbackground_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d6b8760f259c0f2a2d0cc4609d883a1e") ;
+background-repeat: no-repeat, repeat; border-style: outset;
+ background-position: top ; background-color: white ;
+ 
+  
+}
+
+h3 { color: #870b49; text-align: center } 
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+section { color: rgba(213, 166, 227); font-size: 20px; 
+}
+.class1{
+  background-color: rgba(213, 242, 223, .3); }
+.class2{
+  padding: 10px; margin: 100px;
+
+}
+
+UL{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 0 rem;
+  text-indent: -0.75rem;}
+   li::before {
+     content: "🥰 ";}
+button {
+  background-color: #daa2e9;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
